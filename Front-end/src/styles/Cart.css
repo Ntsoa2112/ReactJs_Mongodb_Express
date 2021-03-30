@@ -1,0 +1,42 @@
+.lmj-cart{
+    color: rgb(49, 43, 43);
+	background-color: #e9f0ec;
+	padding: 32px;
+}
+
+
+.users {
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.users td, .users th {
+border: 1px solid #ddd;
+padding: 8px;
+}
+
+.users tr:nth-child(even){background-color: #f2f2f2;}
+
+.users tr:hover {background-color: #ddd;}
+
+.users th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: left;
+background-color: #4CAF50;
+color: white;
+}
+
+.button_users{
+	background-color: #008CBA;
+	border: none;
+	color: white;
+	padding: 5px 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 2px 2px;
+	cursor: pointer;
+}
